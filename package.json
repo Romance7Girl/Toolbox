@@ -1,0 +1,26 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romance7Girl/Toolbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romance7Girl/Toolbox/issues"
+  },
+  "homepage": "https://github.com/Romance7Girl/Toolbox#readme",
+  "dependencies": {
+    "es6-modules-commonjs": "^0.1.3",
+    "express": "^4.17.1",
+    "http-client": "^4.3.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.0"
+  }
+}
