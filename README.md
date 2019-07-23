@@ -18,7 +18,7 @@ docker build -t usuariodocker/toolbox .
 Luego de que se construya la imagen y no nos haya dado error, ejecutamos el docker
 
 ```bash
-docker run --name toolbox -d romance7girl/toolbox
+docker run --name toolbox -d usuariodocker/toolbox
 ```
 
 Por ultimo revisamos el resultado despues de que se corrieron las pruebas en el docker:
